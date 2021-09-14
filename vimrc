@@ -4,8 +4,9 @@ set number
 set noerrorbells
 set tabstop=2
 set softtabstop=2
+set shiftwidth=2
 set expandtab
-set autoindent smartindent
+set smartindent
 set nowrap
 set showmatch
 set ruler
@@ -29,7 +30,7 @@ highlight ColorColumn ctermbg=0 guibg=lightgrey
 
 packloadall
 
-"NERDTree 
+"this is for NERDTree 
 set buftype=""
 set ma
 
